@@ -1,0 +1,2 @@
+# webminta
+mintafeladat_DNS
